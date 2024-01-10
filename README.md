@@ -4,6 +4,7 @@
   
   
 - linkedin profile- https://www.linkedin.com/in/shivanshu-gupta-421679297/
+- X-Profile - https://twitter.com/ShiShivanshu
 
 <!---
 shivanshu11092003/shivanshu11092003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
