@@ -6,7 +6,7 @@
 - linkedin profile- https://www.linkedin.com/in/shivanshu-gupta-421679297/
 - X-Profile - https://twitter.com/ShiShivanshu
   
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu11092003&theme=tokyonight&hide=html,javascript,css)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu11092003&theme=tokyonight)
 
  
 <!---
