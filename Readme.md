@@ -1,4 +1,4 @@
-- hii, 👋 I’m Shivanshu Gupta pursuing a Bachelor of Technology (B.Tech) in Computer Science Engineering.
+- Hii, 👋 I’m Shivanshu Gupta pursuing a Bachelor of Technology (B.Tech) in Computer Science Engineering.
 - 👀 I’m interested in Android Development.
 
   ## 🌐 Socials:
