@@ -1,7 +1,3 @@
-- Hii, 👋 I’m Shivanshu Gupta [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshu-gupta-421679297/)  pursuing a Bachelor of Technology (B.Tech) in Computer Science Engineering.
-- 👀 I’m interested in Android Development.
-
-
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
