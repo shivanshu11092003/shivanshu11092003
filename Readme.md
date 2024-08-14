@@ -18,7 +18,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu11092003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu11092003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=CSS)
 ![](https://github-readme-stats.vercel.app/api?username=shivanshu11092003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivanshu11092003&theme=dark&hide_border=false)<br/>
 ## 🏆 GitHub Trophies
